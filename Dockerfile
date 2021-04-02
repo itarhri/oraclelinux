@@ -1,4 +1,4 @@
-FROM scratch
+FROM scratch 
 
 ADD oraclelinux-7-arm64v8-rootfs.tar.xz /
 
